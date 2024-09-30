@@ -1,0 +1,6 @@
+@DocuwareManagementWebAPI_HostAddress = http://localhost:5230
+
+GET {{DocuwareManagementWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
